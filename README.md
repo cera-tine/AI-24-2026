@@ -1,5 +1,7 @@
 # AI-24 (2026) — Project Kelompok 2
 
+🔗 **Website live:** [LombaLink](https://lombalink-ten.vercel.app) · [KantinKilat](https://kantinkilat.vercel.app) — lihat `LINK-WEB.md`.
+
 Folder project ini disiapkan supaya **teman bisa langsung lanjut mengerjakan di OpenCode**
 tanpa perlu bertanya lagi dari nol.
 
